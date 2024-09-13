@@ -1,4 +1,10 @@
-## Hi there 👋
+## Halo semua!👋
+
+Perkenalkan nama saya **Riyan Fazri Rahman**.<br>
+
+- ⭐ Saya seorang **Junior Developer**.<br>
+- 🚀 Saya sekarang sedang belajar di Dicoding [Android Developer](https://www.dicoding.com/).<br>
+- 💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/riyan-fazri-rahamn/)ku ya.
 
 <!--
 **riyanfazrirahman/riyanfazrirahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
