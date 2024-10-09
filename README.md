@@ -2,7 +2,7 @@
 
 <p align="center">
 Perkenalkan nama ku <b>Riyan Fazri Rahman</b>.<br>
-⭐ Aku Mahasiswa juga seorang <b>Junior Developer</b>.<br>
+⭐ Aku <b>programmer</b> dan juga seorang Mahasiswa.<br>
 🚀 Aku sekarang sedang belajar di Dicoding <a href="https://www.dicoding.com/">Android Developer</a>.<br>
 💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun <a href="https://www.linkedin.com/in/riyan-fazri-rahman/">Linkedin</a> ku ya.
 </p>
