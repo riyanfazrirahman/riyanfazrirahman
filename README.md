@@ -12,7 +12,7 @@ Perkenalkan nama ku <b>Riyan Fazri Rahman</b>.<br>
 <p align="center">
   <a href="https://github.com/riyanfazrirahman">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=riyanfazrirahman&layout=compact&layout=compact&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyanfazrirahman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=riyanfazrirahman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
   </a>
   <a href="https://github.com/riyanfazrirahman?tab=repositories">
   <img height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=riyanfazrirahman&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=975" alt="GitHub Streak" />
@@ -79,8 +79,9 @@ Here are some ideas to get you started:
 
 
 ## 🏆 GitHub Trophies
-
+ <!-- 
 ![](https://github-profile-trophy.vercel.app/?username=riyanfazrirahman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+ -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riyanfazrirahman/riyanfazrirahman/output/github-snake-dark.svg" />
